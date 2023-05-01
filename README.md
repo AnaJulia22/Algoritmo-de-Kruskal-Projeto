@@ -15,7 +15,7 @@ Bruno Miguel Moreira Albuquerque
 
 Recife, 18 de abril de 2023
 
-##Implementação
+## Implementação
 ### Algoritmo utilizado:
  Algoritmo de Kruskal - Árvore geradora mínima
 ### Desenvolvimento: 
