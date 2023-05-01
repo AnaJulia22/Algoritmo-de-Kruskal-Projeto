@@ -5,10 +5,14 @@ Universidade Federal de Pernambuco
 Centro de Informática - CIn 
 
 Disciplina: Algoritmos e estruturas de dados
+
 Docente: Sérgio Queiroz 
+
 Discente: 
+
 Ana Júlia de Oliveira Fernandes
-Bruno Miguel Moreira Albuquerque
+
+Bruno Miguel Moreira Albuquerque - github(brunom764)
 
 
 ## Relatório do projeto: Grupo #4.3
